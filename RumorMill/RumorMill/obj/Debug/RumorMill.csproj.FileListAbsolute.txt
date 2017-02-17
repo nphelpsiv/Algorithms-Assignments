@@ -1,0 +1,6 @@
+E:\Programming Projects\CS4150\RumorMill\RumorMill\bin\Debug\RumorMill.exe.config
+E:\Programming Projects\CS4150\RumorMill\RumorMill\bin\Debug\RumorMill.exe
+E:\Programming Projects\CS4150\RumorMill\RumorMill\bin\Debug\RumorMill.pdb
+E:\Programming Projects\CS4150\RumorMill\RumorMill\obj\Debug\RumorMill.csprojResolveAssemblyReference.cache
+E:\Programming Projects\CS4150\RumorMill\RumorMill\obj\Debug\RumorMill.exe
+E:\Programming Projects\CS4150\RumorMill\RumorMill\obj\Debug\RumorMill.pdb

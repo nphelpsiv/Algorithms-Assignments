@@ -1,0 +1,6 @@
+E:\Programming Projects\CS4150\GalaxyQuest\GalaxyQuest\bin\Debug\GalaxyQuest.exe.config
+E:\Programming Projects\CS4150\GalaxyQuest\GalaxyQuest\bin\Debug\GalaxyQuest.exe
+E:\Programming Projects\CS4150\GalaxyQuest\GalaxyQuest\bin\Debug\GalaxyQuest.pdb
+E:\Programming Projects\CS4150\GalaxyQuest\GalaxyQuest\obj\Debug\GalaxyQuest.csprojResolveAssemblyReference.cache
+E:\Programming Projects\CS4150\GalaxyQuest\GalaxyQuest\obj\Debug\GalaxyQuest.exe
+E:\Programming Projects\CS4150\GalaxyQuest\GalaxyQuest\obj\Debug\GalaxyQuest.pdb

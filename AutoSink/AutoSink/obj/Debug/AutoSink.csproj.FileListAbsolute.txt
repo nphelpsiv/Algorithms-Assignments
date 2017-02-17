@@ -1,0 +1,6 @@
+E:\Programming Projects\CS4150\AutoSink\AutoSink\bin\Debug\AutoSink.exe.config
+E:\Programming Projects\CS4150\AutoSink\AutoSink\bin\Debug\AutoSink.exe
+E:\Programming Projects\CS4150\AutoSink\AutoSink\bin\Debug\AutoSink.pdb
+E:\Programming Projects\CS4150\AutoSink\AutoSink\obj\Debug\AutoSink.csprojResolveAssemblyReference.cache
+E:\Programming Projects\CS4150\AutoSink\AutoSink\obj\Debug\AutoSink.exe
+E:\Programming Projects\CS4150\AutoSink\AutoSink\obj\Debug\AutoSink.pdb
